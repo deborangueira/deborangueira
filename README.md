@@ -1,4 +1,6 @@
  ## _Hey there, I’m Débora!_
+
+ ### 🪴 About me 
 _Currently a first-year student at [`Inteli`](https://www.inteli.edu.br/) ✨Institute of Technology and Leadership✨_
 
 ▫️ I'm into creating `high quality, timeless and beautiful` solutions through tech that support our life\
@@ -6,10 +8,12 @@ _Currently a first-year student at [`Inteli`](https://www.inteli.edu.br/) ✨Ins
 ▫️ I'm also a `passionate contemporary and ballet dancer`, and love to balance my time with art and movement!!\
 ▫️ My Inteli `buddy` is also a dear friend, come [meet Mariana](https://github.com/marimari0945)
 
-### 👨‍💻 Tech & Tools I use
+--- 
+
+### ✨ Tech & Tools I use
 
 <img src="https://skillicons.dev/icons?i=html,css,js,vscode,supabase,npm,github,figma,notion" height="40"/>
-
+ 
 ### 👩🏻‍💻 GitHub metrics
  <div align="left">
  <td><img height="150em" src="https://github-readme-stats.vercel.app/api?username=deborangueira&show_icons=true&locale=en" alt="deborangueira" /></a>
@@ -18,7 +22,7 @@ _Currently a first-year student at [`Inteli`](https://www.inteli.edu.br/) ✨Ins
   </a>
 </div>  
 
-  
+--- 
 ### 🤝 Let's Connect
 
 - `LinkedIn`: [Débora Nogueira](https://www.linkedin.com/in/debora-pereira-nogueira/)  
