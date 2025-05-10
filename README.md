@@ -21,9 +21,3 @@ _Currently a first-year student at [`Inteli`](https://www.inteli.edu.br/) ✨Ins
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborangueira&layout=compact" alt="deborangueira"/>
   </a>
 </div>  
-
---- 
-### 🤝 Let's Connect
-
-- `LinkedIn`: [Débora Nogueira](https://www.linkedin.com/in/debora-pereira-nogueira/)  
-- `Email`: [heydeb.pn@gmail.com](mailto:heydeb.pn@gmail.com)
