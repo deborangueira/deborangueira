@@ -3,15 +3,17 @@
 
 ▫️ I'm into creating `high quality, timeless and beautiful` solutions through tech that support our life\
 ▫️ Working as a `Certificate Notion Creator` - like Notion? Let's get in touch [here](https://deborapereira.notion.site/8c2e24965d3b48fda6a5a1fdf89449b3)!  
-▫️ Engaged in `hands-on experience` with relational database modeling, SQL queries, Node.js backend development, RESTful API design, and Git-based version control.
+▫️ Contributing to academic projects with `hands-on experience` in game development and web application (relational database modeling, SQL queries, Node.js backend development, RESTful API design).
 
 --- 
 
 ### ✨ Tech & Tools I use
 
-<img src="https://skillicons.dev/icons?i=html,css,js,vscode,supabase,npm,github,figma,notion" height="40"/>
- 
+<img src="https://skillicons.dev/icons?i=html,css,js,vscode,supabase,npm,github,figma,notion,nodejs,postgresql" height="40"/>
+
+---
 ### 👩🏻‍💻 GitHub metrics
+
  <div align="left">
  <td><img height="150em" src="https://github-readme-stats.vercel.app/api?username=deborangueira&show_icons=true&locale=en" alt="deborangueira" /></a>
   <a href="https://github.com/deborangueira" target="_blank">
