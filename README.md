@@ -3,7 +3,7 @@
 
 ▫️ I'm into creating `high quality, timeless and beautiful` solutions through tech that support our life\
 ▫️ Working as a `Certificate Notion Creator` - like Notion? Let's get in touch [here](https://deborapereira.notion.site/8c2e24965d3b48fda6a5a1fdf89449b3)!  
-▫️ Gaining `hands-on experience` with relational database modeling, SQL queries, Node.js backend development, RESTful API design, and Git-based version control.
+▫️ Engaged in `hands-on experience` with relational database modeling, SQL queries, Node.js backend development, RESTful API design, and Git-based version control.
 
 --- 
 
