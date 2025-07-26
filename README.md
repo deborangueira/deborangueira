@@ -21,6 +21,7 @@
   </a>
 </div>  
 
+---
 ### Fun facts
 
 ▫️ I'm also a `passionate contemporary and ballet dancer`, and love to balance my time with art and movement!!\
