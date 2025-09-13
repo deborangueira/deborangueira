@@ -3,7 +3,6 @@
 
 - I'm into creating `high quality, timeless and beautiful` solutions through tech that support our life
 - Gaining `hands-on experience` in game development, web application, relational database modeling, RESTful API, data analysis and Machine Learning.
-- Working as a `Certificate Notion Creator` - like Notion? Let's get in touch [here](https://deborapereira.notion.site/8c2e24965d3b48fda6a5a1fdf89449b3)!  
 
 --- 
 
@@ -24,5 +23,6 @@
 ---
 ### Fun facts
 
+▫️ Working as a `Certificate Notion Creator` - like Notion? Let's get in touch [here](https://deborapereira.notion.site/8c2e24965d3b48fda6a5a1fdf89449b3)!\
 ▫️ I'm also a `passionate contemporary and ballet dancer`, and love to balance my time with art and movement!!\
 ▫️ My Inteli `buddy` is also a dear friend, come [meet Mariana](https://github.com/marimari0945)
