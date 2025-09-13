@@ -1,9 +1,9 @@
  ## _Hey there, I’m Débora!_
 *Currently a first-year student at [Inteli](https://www.inteli.edu.br/)* 🪴 
 
-▫️ I'm into creating `high quality, timeless and beautiful` solutions through tech that support our life\
-▫️ Gaining `hands-on experience` in game development, web application, relational database modeling, RESTful API, data analysis and Machine Learning.\
-▫️ Working as a `Certificate Notion Creator` - like Notion? Let's get in touch [here](https://deborapereira.notion.site/8c2e24965d3b48fda6a5a1fdf89449b3)!  
+- I'm into creating `high quality, timeless and beautiful` solutions through tech that support our life\
+- Gaining `hands-on experience` in game development, web application, relational database modeling, RESTful API, data analysis and Machine Learning.\
+- Working as a `Certificate Notion Creator` - like Notion? Let's get in touch [here](https://deborapereira.notion.site/8c2e24965d3b48fda6a5a1fdf89449b3)!  
 
 --- 
 
