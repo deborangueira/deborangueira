@@ -9,7 +9,7 @@
 
 ### ✨ Tech & Tools I use
 
-<img src="https://skillicons.dev/icons?i=html,css,js,vscode,supabase,npm,github,figma,notion,nodejs,postgresql" height="40"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,vscode,supabase,npm,github,figma,notion,nodejs,postgresql" height="40"/>
 
 ---
 ### 👩🏻‍💻 GitHub metrics
