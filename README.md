@@ -2,7 +2,7 @@
 *Currently a first-year student at [Inteli](https://www.inteli.edu.br/)* 🪴 
 
 - I'm into creating `high quality, timeless and beautiful` solutions through tech that support our life
-- Gaining `hands-on experience` in game development, web application, relational database modeling, RESTful API, data analysis and Machine Learning.
+- Gaining `hands-on experience` in game development, web application, relational database modeling, RESTful API, data analysis, Machine Learning and IoT.
 
 --- 
 
